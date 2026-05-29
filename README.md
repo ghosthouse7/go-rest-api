@@ -2,13 +2,10 @@
 
 A simple REST API built with **pure Go** — no frameworks, no extra libraries. Just Go's built-in `net/http` package.
 
-Built as part of the [ghosthouse7 YouTube channel](https://youtube.com/@ghosthouse7) — where we build real backends with Go.
 
 ---
 
 ## 🎬 Watch the Video
-
-> **[Build a Simple Go REST API in 15 Minutes (net/http + JSON)](https://youtube.com/@ghosthouse7)**
 
 If you landed here from the video — hey! 👋 The full code is right here.
 
@@ -172,11 +169,4 @@ STAY TUNED FOR MORE!!!!
 Found a bug or want to suggest something? Open an issue or drop a comment on the video. This repo is meant to be a learning resource so all feedback is welcome!
 
 ---
-
-## 📄 License
-
-MIT — use this code however you want. Build something cool with it.
-
----
-
-<p align="center">Made with ☕ and Go by <a href="https://youtube.com/@ghosthouse7">ghosthouse7</a></p>
+<p align="center">Made with ☕ and Go 
